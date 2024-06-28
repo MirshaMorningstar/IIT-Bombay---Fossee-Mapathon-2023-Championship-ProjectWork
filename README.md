@@ -2,13 +2,21 @@
 
 ### Apr 2023 - Jun 2023
 
-### Associated with Madras Institute of Technology
 
 In the realm of academic pursuits, the "IIT Bombay FOSSEE Mapathon 2023" was a pivotal chapter in my academic journey. Hosted by the Indian Institute of Technology Bombay in collaboration with other esteemed organizations, this national-level competition brought together bright minds united by their passion for crafting cartographic creations.
 
-Uniting enthusiasts of AI and data science, we embarked on a transformative journey to create a comprehensive AI-powered map of healthcare and safety networks in the challenging Nilgiris region.
+Uniting enthusiasts of AI and data science, we set forth to create a comprehensive AI-powered map of healthcare and safety networks in the challenging Nilgiris region.
 
 ## Project Overview:
+
+![The_Nilgiris_Map](https://github.com/MirshaMorningstar/IIT-Bombay---Fossee-Mapathon-2023-Championship-ProjectWork/assets/84216040/754178af-3cbf-4f34-8d0c-d6e108582232)
+
+![The_Nilgiris_Landslide](https://github.com/MirshaMorningstar/IIT-Bombay---Fossee-Mapathon-2023-Championship-ProjectWork/assets/84216040/c195f8dd-8a44-4d68-8364-84e144c06e74)
+
+![Inida_HNT_SpaceNet](https://github.com/MirshaMorningstar/IIT-Bombay---Fossee-Mapathon-2023-Championship-ProjectWork/assets/84216040/202e0396-145a-42fd-8525-d36e628dc889)
+
+![The_Nilgiris_AeroNet](https://github.com/MirshaMorningstar/IIT-Bombay---Fossee-Mapathon-2023-Championship-ProjectWork/assets/84216040/ebd2b1f5-5de7-4c89-bfd4-b181e8351135)
+
 
 Our project, titled "Demarcating the Deadliest Roads and Achieving AIoT Amelioration," involved meticulous geospatial data collection and the intricate task of modeling AIoT (Artificial Intelligence of Things) for data visualization. As the project lead, I oversaw over 80% of the work, grappling with complex technical challenges, making critical decisions, and ensuring that our project remained on course.
 
